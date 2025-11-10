@@ -3,6 +3,9 @@
 # vale off
 layout: default
 nav_order: 1
+parent: To-Do Service API
+nav_order: 1
+# tags used by AI files
 description: Overview of the To-Do Service API for managing cloud-based task lists.
 tags:
   - introduction
@@ -26,18 +29,17 @@ last_updated: "2025-11-02"
 
 # To-Do Service API overview
 
-**Simple, stress-free task management.**
+Make forgetting things impossible with the To-Do Service API.
+Create tasks, set reminders and build smarter workflows to help you stay organized and productive.
 
-Make forgetting things impossible with the To-Do Service API. Create tasks, set reminders and build smarter workflows to help you stay organized and productive.
-
-[Watch the video](videos/about-the-to-do-service.mp4){: .btn .btn-purple }
+[Watch the video](#tutorials){: .btn .btn-purple }
 
 ## Get started
 
-New to the To-Do Service? Get set up and learn how to turn everyday tasks into organized action with practical examples.
+New to the To-Do Service? Get set up and learn how to turn everyday tasks into organized action
+with practical examples.
 
 ### Prepare your environment
-
 Cross setup off your list. Get up and running in just 20 minutes.
 
 [Set up your environment](../before-you-start-a-tutorial.md){: .btn .btn-outline }
@@ -56,7 +58,7 @@ Track and manage your tasks from a single platform.
 
 Stay on track with automatic notifications.
 
-[Set a reminder](../tutorials/add-a-new-reminder.md){: .btn .btn-outline }
+[Set a reminder](#set-it-and-forget-it){: .btn .btn-outline }
 
 ## Learn more
 
@@ -69,16 +71,16 @@ the To-Do Service API **YouTube channel&nbsp;→** and **blog&nbsp;→**.
 
 ---
 
-From [building a personal productivity app →](http://www.todoservice.com/case-studies/case-4) to
- [managing tasks in enterprise systems →](http://www.todoservice.com/case-studies/case-61),
+From [building a personal productivity app →](#learn-more) to
+ [managing tasks in enterprise systems →](#learn-more),
   find out how  customers are using the To-Do Service to stay on top of work that matters.
 
-[Explore case studies](http://www.todoservice.com/case-studies){: .btn .btn-outline }
+[Explore case studies](#learn-more){: .btn .btn-outline }
 
 ## Have a question?
 
 Get help with demos, pricing, integrations, and more.
 
-[FAQ](http://todoservice.com/documentation/faq){: .btn .btn-purple .mr-2 }
-[Contact Sales](http://todoservice.com/sales/contact-us){: .btn .btn-outline }
-[Contact Support](http://todoservice.com/support/contact-us){: .btn .btn-outline }
+[FAQ](#learn-more){: .btn .btn-purple .mr-2 }
+[Contact Sales](#learn-more){: .btn .btn-outline }
+[Contact Support](#learn-more){: .btn .btn-outline }
